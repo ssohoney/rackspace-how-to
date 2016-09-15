@@ -17,7 +17,7 @@ the script and the corresponding image to use.
 
 **Standard tall (350px x 210px) image**
 
-   <img src="{% http://admin.emailsrvr.com/clients/webmail/apps_rackspace_com/images/bg-350x210.png%}"/>
+   <img src="{% asset_path rackspace-email/assemble-email-and-outlook-login-widget/stdtall350x210.png %}"/>
 
 **Script**
 
@@ -27,7 +27,7 @@ the script and the corresponding image to use.
 
 **Standard short (320px x 150px) image**
 
-   <img src="{% http://admin.emailsrvr.com/clients/webmail/apps_rackspace_com/images/bg-320x150.png%}" />
+   <img src="{% asset_path rackspace-email/assemble-email-and-outlook-login-widget/stdshort320x150.png %}" />
 
 **Script**
 
@@ -37,7 +37,7 @@ the script and the corresponding image to use.
 
 **Footer and navigation wide (820px × 50px) image**
 
-   <img src="{% http://admin.emailsrvr.com/clients/webmail/apps_rackspace_com/images/bg-820x50.png %}" />  
+   <img src="{% asset_path rackspace-email/assemble-email-and-outlook-login-widget/ftrnavwide820x50.png %}" />  
 
 **Script**
 
@@ -47,7 +47,7 @@ the script and the corresponding image to use.
 
 **Footer and navigation narrow (520px × 70px) image**
 
-   <img src="{% http://admin.emailsrvr.com/clients/webmail/apps_rackspace_com/images/bg-520x70.png %}" />  
+   <img src="{% asset_path rackspace-email/assemble-email-and-outlook-login-widget/ftrnavnarrow520x70 %}" />  
 
 **Script**
 
@@ -57,7 +57,7 @@ the script and the corresponding image to use.
 
 **Vertical tall (200px x 290px) image**
 
-   <img src="{% http://admin.emailsrvr.com/clients/webmail/apps_rackspace_com/images/bg-200x290.png %}" />  
+   <img src="{% asset_path rackspace-email/assemble-email-and-outlook-login-widget/verttall200x290.png %}" />  
 
 **Script**
 
@@ -67,7 +67,7 @@ the script and the corresponding image to use.
 
 **Vertical short (200px × 220px) image**
 
-   <img src="{% http://admin.emailsrvr.com/clients/webmail/apps_rackspace_com/images/bg-200x220.png  %}" />  
+   <img src="{% asset_path rackspace-email/assemble-email-and-outlook-login-widget/vertshort200x220  %}" />  
 
 **Script**   
 
