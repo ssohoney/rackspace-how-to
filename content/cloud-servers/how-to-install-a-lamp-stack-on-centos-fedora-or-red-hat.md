@@ -58,7 +58,7 @@ steps.
     -   **Allow remote users?**: Select **No**.
 
 4.  Enter the following command to restart mysqld, start httpd, and
-    configure httpd and mysqld to start on boot.
+    configure httpd and mysqld to start on boot. (If you see env variable "SERVICE_URI" not set error. Use /sbin/service command instead of just service)
 
         sudo sh -c "service mysqld restart && service httpd start && chkconfig httpd on && chkconfig mysqld on"
 
